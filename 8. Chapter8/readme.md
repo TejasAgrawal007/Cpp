@@ -2,7 +2,7 @@
 
 
 ### C++ Array Declaration
-    dataType arrayName[arraySiz];
+    dataType arrayName[arraySize];
 
 For example.
 ``` cpp
